@@ -1,5 +1,18 @@
 ﻿# 资源汇总
 
+## .net
+***
+
+### 库
+*  Polly: .NET弹性和瞬态故障处理库 [链接](https://github.com/App-vNext/Polly)
+
+### 框架
+*  Nancy: 轻量级MVC框架(Run anyWhere,官方MVC框架的一种替代方案) [链接](https://github.com/NancyFx/Nancy)
+
+### 项目
+*  NETCoreBBS: .NET Core开源论坛项目 [链接](https://github.com/linezero/NETCoreBBS)
+
+
 ## 前端
 ***
 
@@ -33,6 +46,7 @@
 *  OzCode:Vs扩展，提供强大的调试工具(需要破解)
 *  Prefix：用于.NET和Java的轻量级开发工具，Prefix会实时显示日志、错误、查询等 [链接](https://stackify.com/prefix/)
 *  dotTrace:帮助排除性能问题并加快应用程序的速度(需破解) [链接](https://www.jetbrains.com/profiler/)
+*  Opserver:.net开源性能监控产品 [链接](https://github.com/opserver/Opserver) [教程](http://www.cnblogs.com/GuZhenYin/p/8038110.html)
 
 
 ## 第三方支持
