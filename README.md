@@ -47,6 +47,7 @@
 *  Prefix：用于.NET和Java的轻量级开发工具，Prefix会实时显示日志、错误、查询等 [链接](https://stackify.com/prefix/)
 *  dotTrace:帮助排除性能问题并加快应用程序的速度(需破解) [链接](https://www.jetbrains.com/profiler/)
 *  Opserver:.net开源性能监控产品 [链接](https://github.com/opserver/Opserver) [教程](http://www.cnblogs.com/GuZhenYin/p/8038110.html)
+*  Ants Memory Profiler:.net程序的内存动态分析工具(winform,wpf) [下载](https://www.red-gate.com/products/dotnet-development/ants-memory-profiler/)
 
 
 ## 第三方支持
