@@ -35,6 +35,10 @@
 ## 工具
 ***
 
+### API文档工具
+*  Swagger: [链接](https://swagger.io/)
+*  ShowDoc: [链接](https://www.showdoc.cc/web/#/)
+
 ### 反编译工具
 *  dotPeek:[链接](https://www.jetbrains.com/decompiler)
 *  ILspy:已停止维护 [链接](https://github.com/icsharpcode/ILSpy#ilspy-------)
