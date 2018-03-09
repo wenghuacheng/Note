@@ -5,6 +5,7 @@
 
 ### 库
 *  Polly: .NET弹性和瞬态故障处理库 [链接](https://github.com/App-vNext/Polly)
+*  Foundatio: .Net分布式组件库  [链接](https://github.com/FoundatioFx/Foundatio)
 
 ### 框架
 *  Nancy: 轻量级MVC框架(Run anyWhere,官方MVC框架的一种替代方案) [链接](https://github.com/NancyFx/Nancy)
@@ -19,7 +20,7 @@
 ### Js库
 *  D3.js:数据可视化和图表是 Web 应用程序 [链接](https://d3js.org/)
 *  three.js:三维可视化库 [链接](https://threejs.org/)
-*  two.js:二维可视化库 [链接](https://two.js.org/)7
+*  two.js:二维可视化库 [链接](https://two.js.org/)
 
 ### UI库
 *  EasyUI:一种基于jQuery的用户界面插件集合 
@@ -41,12 +42,15 @@
 ### 转换工具
 *  Telerik Code Converter:VB与C#互转工具 [链接](http://converter.telerik.com/)
 
+### 编译器
+*  正则表达式在线调试工具:  [链接](http://regex.zjmainstay.cn/)
+
 ### 其他
 *  SourceTree:免费Git客户端 [链接](https://www.sourcetreeapp.com/)
 *  OzCode:Vs扩展，提供强大的调试工具(需要破解)
 *  Prefix：用于.NET和Java的轻量级开发工具，Prefix会实时显示日志、错误、查询等 [链接](https://stackify.com/prefix/)
 *  dotTrace:帮助排除性能问题并加快应用程序的速度(需破解) [链接](https://www.jetbrains.com/profiler/)
-*  Opserver:.net开源性能监控产品 [链接](https://github.com/opserver/Opserver) [教程](http://www.cnblogs.com/GuZhenYin/p/8038110.html)
+*  Opserver:.Net开源性能监控产品 [链接](https://github.com/opserver/Opserver) [教程](http://www.cnblogs.com/GuZhenYin/p/8038110.html)
 *  Ants Memory Profiler:.net程序的内存动态分析工具(winform,wpf) [下载](https://www.red-gate.com/products/dotnet-development/ants-memory-profiler/)
 
 
@@ -59,7 +63,6 @@
 ### 存储
 *  贴图库：图片云存储 [链接](http://www.tietuku.com/)
 *  七牛云: 免费图片云存储 [链接]https://www.qiniu.com/
-
 
 ### 其他
 *  AppHarbor:完全托管的.NET 平台服务(免费云服务器?) [链接](https://appharbor.com/)
