@@ -9,6 +9,7 @@
 
 ### 框架
 *  Nancy: 轻量级MVC框架(Run anyWhere,官方MVC框架的一种替代方案) [链接](https://github.com/NancyFx/Nancy)
+*  Dora.Interception：.NET Core AOP框架 [链接](https://github.com/jiangjinnan/Dora)
 
 ### 项目
 *  NETCoreBBS: .NET Core开源论坛项目 [链接](https://github.com/linezero/NETCoreBBS)
@@ -37,6 +38,7 @@
 
 ### API文档工具
 *  Swagger: [链接](https://swagger.io/)
+*  Swashbuckle: Swagger的.NetCore生成工具  [链接](https://github.com/domaindrivendev/Swashbuckle.AspNetCore)
 *  ShowDoc: [链接](https://www.showdoc.cc/web/#/)
 
 ### 反编译工具
@@ -60,6 +62,9 @@
 
 ## 第三方支持
 ***
+
+###  代码管理服务
+*  Gogs:一款极易搭建的自助Git服务(私有代码仓库)  [教程](https://gogs.io/)
 
 ### 数据接口
 *  聚合数据:常用数据API(部分免费) [链接](https://www.juhe.cn/)
