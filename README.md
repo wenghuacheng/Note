@@ -15,6 +15,11 @@
 ### 项目
 *  NETCoreBBS: .NET Core开源论坛项目 [链接](https://github.com/linezero/NETCoreBBS)
 
+### 工具
+*  WPF Inspector: XAML查看工具 [教程](http://www.wpftutorial.net/inspector.html) [链接](https://archive.codeplex.com/?p=wpfinspector)
+*  WPF Snoop: XAML查看工具 [链接](https://github.com/cplotts/snoopwpf)
+*  SmartAssembly:代码混淆工具
+
 
 ## 前端
 ***
