@@ -10,6 +10,7 @@
 ### 框架
 *  Nancy: 轻量级MVC框架(Run anyWhere,官方MVC框架的一种替代方案) [链接](https://github.com/NancyFx/Nancy)
 *  Dora.Interception：.NET Core AOP框架 [链接](https://github.com/jiangjinnan/Dora)
+*  AvaloniaUI: .Net跨平台UI框架(支持.NetCore) [链接](https://github.com/AvaloniaUI/Avalonia)
 
 ### 项目
 *  NETCoreBBS: .NET Core开源论坛项目 [链接](https://github.com/linezero/NETCoreBBS)
