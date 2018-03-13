@@ -6,6 +6,7 @@
 ### 库
 *  Polly: .NET弹性和瞬态故障处理库 [链接](https://github.com/App-vNext/Polly)
 *  Foundatio: .Net分布式组件库  [链接](https://github.com/FoundatioFx/Foundatio)
+*  EasyHook: 提供钩子API [链接](https://github.com/EasyHook/EasyHook)
 
 ### 框架
 *  Nancy: 轻量级MVC框架(Run anyWhere,官方MVC框架的一种替代方案) [链接](https://github.com/NancyFx/Nancy)
