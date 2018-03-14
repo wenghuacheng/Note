@@ -8,6 +8,7 @@
 *  Foundatio: .Net分布式组件库  [链接](https://github.com/FoundatioFx/Foundatio)
 *  EasyHook:提供钩子API [链接](https://github.com/EasyHook/EasyHook)
 *  AngleSharp:解析HTML的爬虫库 [链接](https://github.com/AngleSharp/AngleSharp)
+*  NetCore API分析器:在编译环境下提示WebApi是否跨平台  [链接](https://www.nuget.org/packages/Microsoft.DotNet.Analyzers.Compatibility/)
 
 ### 框架
 *  Nancy: 轻量级MVC框架(Run anyWhere,官方MVC框架的一种替代方案) [链接](https://github.com/NancyFx/Nancy)
