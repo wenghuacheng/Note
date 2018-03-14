@@ -12,9 +12,11 @@
 *  Nancy: 轻量级MVC框架(Run anyWhere,官方MVC框架的一种替代方案) [链接](https://github.com/NancyFx/Nancy)
 *  Dora.Interception：.NET Core AOP框架 [链接](https://github.com/jiangjinnan/Dora)
 *  AvaloniaUI: .Net跨平台UI框架(支持.NetCore) [链接](https://github.com/AvaloniaUI/Avalonia)
+*  Surging: .NetCore微服务框架 [链接](https://github.com/dotnetcore/surging)
 
 ### 项目
 *  NETCoreBBS: .NET Core开源论坛项目 [链接](https://github.com/linezero/NETCoreBBS)
+*  NETCoreSamples :.NET Core 各个组件的示例代码  [链接](https://github.com/spetz/asp-net-core-samples)
 
 ### 工具
 *  WPF Inspector: XAML查看工具 [教程](http://www.wpftutorial.net/inspector.html) [链接](https://archive.codeplex.com/?p=wpfinspector)
