@@ -84,3 +84,17 @@
 
 ### 其他
 *  AppHarbor:完全托管的.NET 平台服务(免费云服务器?) [链接](https://appharbor.com/)
+
+##英语
+***
+
+### 学习网站
+*  cleverbot:可以和机器人聊天 [链接](http://www.cleverbot.com/)
+*  Quia:国外学习网站  [链接](https://www.quia.com/shared/english/)
+*  Englishclub:国外学习网站  [链接](https://www.englishclub.com/learn-english.htm)
+*  Guide to Grammar and Writing:强化语法和写作  [链接](http://grammar.ccc.commnet.edu/grammar/)
+
+### App
+*  跟Aco學英語app(需翻墙)  [链接](http://acobot.com/)
+*  andychatbot:和机器人聊天(需要翻墙,收费)  [链接](http://andychatbot.com/)  
+
