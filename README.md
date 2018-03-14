@@ -6,7 +6,8 @@
 ### 库
 *  Polly: .NET弹性和瞬态故障处理库 [链接](https://github.com/App-vNext/Polly)
 *  Foundatio: .Net分布式组件库  [链接](https://github.com/FoundatioFx/Foundatio)
-*  EasyHook: 提供钩子API [链接](https://github.com/EasyHook/EasyHook)
+*  EasyHook:提供钩子API [链接](https://github.com/EasyHook/EasyHook)
+*  AngleSharp:解析HTML的爬虫库 [链接](https://github.com/AngleSharp/AngleSharp)
 
 ### 框架
 *  Nancy: 轻量级MVC框架(Run anyWhere,官方MVC框架的一种替代方案) [链接](https://github.com/NancyFx/Nancy)
@@ -38,9 +39,12 @@
 *  Admin LTE:一个基于Bootstrap 3.x的免费主题 链接[https://adminlte.io/themes/AdminLTE/index2.html]
 *  INSPINIA：平面设计理念的管理模板
 
-### 其他
+### 知识库
 *  前端在线手册: [链接](http://www.jqhtml.com/category/manual)
-
+*  前端开发者笔记: [链接](https://dwqs.gitbooks.io/frontenddevhandbook/content/)
+*  前端开发者手册: [链接](https://li-xinyang.gitbooks.io/frontend-notebook/content/)
+*  前端体系知识概述:  [链接](http://www.cnblogs.com/sb19871023/p/3894452.html)
+*  七天学会NodeJs:   [链接](http://nqdeng.github.io/7-days-nodejs/)
 
 ## 工具
 ***
@@ -85,13 +89,17 @@
 ### 其他
 *  AppHarbor:完全托管的.NET 平台服务(免费云服务器?) [链接](https://appharbor.com/)
 
-##英语
+
+## 学习网站
 ***
 
-### 学习网站
+### 编程
+*  免费的计算机编程类中文书籍  [链接](https://github.com/justjavac/free-programming-books-zh_CN)
+
+### 英语
 *  cleverbot:可以和机器人聊天 [链接](http://www.cleverbot.com/)
-*  Quia:国外学习网站  [链接](https://www.quia.com/shared/english/)
-*  Englishclub:国外学习网站  [链接](https://www.englishclub.com/learn-english.htm)
+*  Quia:国外英语学习网站  [链接](https://www.quia.com/shared/english/)
+*  Englishclub:国外英语学习网站  [链接](https://www.englishclub.com/learn-english.htm)
 *  Guide to Grammar and Writing:强化语法和写作  [链接](http://grammar.ccc.commnet.edu/grammar/)
 
 ### App
