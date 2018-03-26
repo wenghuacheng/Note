@@ -9,6 +9,7 @@
 *  EasyHook:提供钩子API [链接](https://github.com/EasyHook/EasyHook)
 *  AngleSharp:解析HTML的爬虫库 [链接](https://github.com/AngleSharp/AngleSharp)
 *  NetCore API分析器:在编译环境下提示WebApi是否跨平台  [链接](https://www.nuget.org/packages/Microsoft.DotNet.Analyzers.Compatibility/)
+*  thrift:基于TCP的RPC库
 
 ### 框架
 *  Nancy: 轻量级MVC框架(Run anyWhere,官方MVC框架的一种替代方案) [链接](https://github.com/NancyFx/Nancy)
@@ -64,6 +65,7 @@
 
 ### 编译器
 *  正则表达式在线调试工具:  [链接](http://regex.zjmainstay.cn/)
+*  stackedit:一款免费的MarkDown在线编辑器: [链接](https://stackedit.io/app#)
 
 ### 其他
 *  SourceTree:免费Git客户端 [链接](https://www.sourcetreeapp.com/)
