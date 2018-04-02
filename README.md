@@ -11,11 +11,14 @@
 *  NetCore API分析器:在编译环境下提示WebApi是否跨平台  [链接](https://www.nuget.org/packages/Microsoft.DotNet.Analyzers.Compatibility/)
 *  thrift:基于TCP的RPC库
 
+
 ### 框架
 *  Nancy: 轻量级MVC框架(Run anyWhere,官方MVC框架的一种替代方案) [链接](https://github.com/NancyFx/Nancy)
 *  Dora.Interception：.NET Core AOP框架 [链接](https://github.com/jiangjinnan/Dora)
 *  AvaloniaUI: .Net跨平台UI框架(支持.NetCore) [链接](https://github.com/AvaloniaUI/Avalonia)
 *  Surging: .NetCore微服务框架 [链接](https://github.com/dotnetcore/surging)
+*  Hangfire: .NetCore定时任务框架 [链接](https://github.com/HangfireIO/Hangfire)
+*  SuperSocket: 轻量级可扩展的Socket服务器框架 [文档](http://docs.supersocket.net/) 链接(https://github.com/kerryjiang/SuperSocket)
 
 ### 项目
 *  NETCoreBBS: .NET Core开源论坛项目 [链接](https://github.com/linezero/NETCoreBBS)
