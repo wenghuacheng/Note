@@ -29,6 +29,8 @@
 *  WPF Snoop: XAML查看工具 [链接](https://github.com/cplotts/snoopwpf)
 *  SmartAssembly:代码混淆工具
 *  SQL耗时分析执行计划:Plan Explorer [链接](https://www.sentryone.com/plan-explorer)
+*  .Net内存动态分析工具:Ants Memory Profiler
+*  .NETReflector:第三方Dll调试工具 [链接](https://marketplace.visualstudio.com/items?itemName=vs-publisher-306627.NETReflectorVisualStudioExtension)
 
 
 ## 前端
