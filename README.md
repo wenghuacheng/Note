@@ -19,6 +19,7 @@
 *  Surging: .NetCore微服务框架 [链接](https://github.com/dotnetcore/surging)
 *  Hangfire: .NetCore定时任务框架 [链接](https://github.com/HangfireIO/Hangfire)
 *  SuperSocket: 轻量级可扩展的Socket服务器框架 [文档](http://docs.supersocket.net/) 链接(https://github.com/kerryjiang/SuperSocket)
+*  postsharp:商用的AOP框架(Express版免费)
 
 ### 项目
 *  NETCoreBBS: .NET Core开源论坛项目 [链接](https://github.com/linezero/NETCoreBBS)
@@ -57,6 +58,12 @@
 ## 工具
 ***
 
+### 知识记忆工具
+* 方片收集: 碎片知识记忆  [链接](http://funp.in/#) 
+
+### 程序设计工具
+*  PrecessOn: 可以在线绘制思维导图、业务流程图等  [链接](https://www.processon.com/) 
+
 ### API文档工具
 *  Swagger: [链接](https://swagger.io/)
 *  Swashbuckle: Swagger的.NetCore生成工具  [链接](https://github.com/domaindrivendev/Swashbuckle.AspNetCore)
@@ -68,6 +75,7 @@
 
 ### 转换工具
 *  Telerik Code Converter:VB与C#互转工具 [链接](http://converter.telerik.com/)
+*  SmallPDf: ppt、word、pdf、excel、图片之间的转换 [链接](https://smallpdf.com/)
 
 ### 编译器
 *  正则表达式在线调试工具:  [链接](http://regex.zjmainstay.cn/)
