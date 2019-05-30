@@ -10,7 +10,9 @@
 *  AngleSharp:解析HTML的爬虫库 [链接](https://github.com/AngleSharp/AngleSharp)
 *  NetCore API分析器:在编译环境下提示WebApi是否跨平台  [链接](https://www.nuget.org/packages/Microsoft.DotNet.Analyzers.Compatibility/)
 *  thrift:基于TCP的RPC库
-
+*  .Net性能测试库 BenchmarkDotNet [链接](https://benchmarkdotnet.org/)
+*  Costura.Fody DLL打包库(将库文件合并到EXE中) [链接](https://github.com/Fody/Costura/)
+*  PrettyBin DLL打包到指定位置 [链接](https://github.com/slmjy/PrettyBin)
 
 ### 框架
 *  Nancy: 轻量级MVC框架(Run anyWhere,官方MVC框架的一种替代方案) [链接](https://github.com/NancyFx/Nancy)
