@@ -42,7 +42,7 @@
 *  AvaloniaUI: .Net跨平台UI框架(支持.NetCore) [链接](https://github.com/AvaloniaUI/Avalonia)
 *  Surging: .NetCore微服务框架 [链接](https://github.com/dotnetcore/surging)
 *  Hangfire: .NetCore定时任务框架 [链接](https://github.com/HangfireIO/Hangfire)
-*  SuperSocket: 轻量级可扩展的Socket服务器框架 [文档](http://docs.supersocket.net/) 链接(https://github.com/kerryjiang/SuperSocket)
+*  SuperSocket: 轻量级可扩展的Socket服务器框架 [文档](http://docs.supersocket.net/) 链接(https://github.com/kerryjiang/SuperSocket) 
 *  postsharp:商用的AOP框架(Express版免费)
 *  Chromely: Electron的.net实现 [链接](https://github.com/chromelyapps/Chromely)   
 *  Electron.NET:基于.Netcore的跨平台客户端实现 [链接](https://github.com/ElectronNET/Electron.NET)   
@@ -79,7 +79,7 @@
 ### UI库
 *  EasyUI:一种基于jQuery的用户界面插件集合 
 *  HUI：基于bootstrap的前端框架 [前端](http://www.h-ui.net/index.shtml) [后端](http://www.h-ui.net/H-ui.admin.shtml)
-*  Admin LTE:一个基于Bootstrap 3.x的免费主题 链接[https://adminlte.io/themes/AdminLTE/index2.html]
+*  Admin LTE:一个基于Bootstrap 3.x的免费主题 链接(https://adminlte.io/themes/AdminLTE/index2.html)
 *  INSPINIA：平面设计理念的管理模板
 
 ### 知识库
