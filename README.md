@@ -42,7 +42,7 @@
 *  AvaloniaUI: .Net跨平台UI框架(支持.NetCore) [链接](https://github.com/AvaloniaUI/Avalonia)
 *  Surging: .NetCore微服务框架 [链接](https://github.com/dotnetcore/surging)
 *  Hangfire: .NetCore定时任务框架 [链接](https://github.com/HangfireIO/Hangfire)
-*  SuperSocket: 轻量级可扩展的Socket服务器框架 [文档](http://docs.supersocket.net/) 链接(https://github.com/kerryjiang/SuperSocket) 
+*  SuperSocket: 轻量级可扩展的Socket服务器框架 [文档](http://docs.supersocket.net/) 链接(https://github.com/kerryjiang/SuperSocket)
 *  postsharp:商用的AOP框架(Express版免费)
 *  Chromely: Electron的.net实现 [链接](https://github.com/chromelyapps/Chromely)   
 *  Electron.NET:基于.Netcore的跨平台客户端实现 [链接](https://github.com/ElectronNET/Electron.NET)   
