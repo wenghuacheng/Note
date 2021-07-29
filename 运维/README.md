@@ -11,4 +11,5 @@
 
 - [nginx-book](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/taobao/nginx-book)：Nginx 开发从入门到精通
 - [docker_practice](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/yeasy/docker_practice)：Docker 从入门到实践
+- [kubernetes-handbook](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/rootsongjc/kubernetes-handbook)：Kubernetes 中文指南／实践手册，[在线阅读](https://jimmysong.io/kubernetes-handbook/)
 
