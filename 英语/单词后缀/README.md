@@ -90,11 +90,91 @@
 
 
 
+#### -ism
+
+含义：【名称后缀】..主义，流派，特性
+
+示例：individualism，capitalism，modernism，humanism
 
 
 
+#### -ist
+
+含义：【名称后缀】 人，...家
+
+示例：artist，communist，scientist
 
 
+
+#### -ive
+
+含义：【形容词后缀】 有...性质/作用
+
+示例：attractive，impressive，creative
+
+
+
+#### -ize
+
+含义：【动词后缀】...化
+
+示例：realize，centralize，industrialize
+
+
+
+#### -less
+
+含义：【形容词后缀】无..的
+
+示例：homeless，useless，hopeless
+
+
+
+#### -ment
+
+含义：【名称后缀】行为的过程或结果，物
+
+示例：punishment，development，attachment，basement
+
+
+
+#### -ness
+
+含义：【名称后缀】抽象名词
+
+示例：weakness，kindness，darkness
+
+
+
+#### -ship
+
+含义：【名称后缀】情况，关机
+
+示例：hardship，friendship
+
+含义：【名称后缀】身份，资格
+
+示例：kindship，membership
+
+
+
+#### -ward
+
+含义：【形容词及副词后缀】向...的，朝..
+
+示例：donwward，backward，northward
+
+
+
+#### -y
+
+含义：【形容词后缀】多..的，有..的
+
+示例：rainy，wordy，hairy
+
+含义：【名词后缀】抽象名称
+
+示例：difficulty，discovery，mastery
 
 
 
