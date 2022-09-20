@@ -1,4 +1,4 @@
-#### ceed/cess/cede/gress/gred/grad
+### ceed/cess/cede/gress/gred/grad
 
 **说明：**s,t,d三个字母可以相互转换，所以记忆时ceed和cess一组，gress和gred一组
 
