@@ -1,22 +1,68 @@
-### ceed/cess/cede/gress/gred/grad
+## ceed/cess/cede/gress/gred/grad
 
-**说明：**s,t,d三个字母可以相互转换，所以记忆时ceed和cess一组，gress和gred一组
+**说明：**
+
+s,t,d三个字母可以相互转换，所以记忆时ceed和cess一组，gress和gred一组
+
+词根+u/ul/o/ol+后缀。这些连接词负责发音
 
 **含义：**go 行走
 
-**示例：**
-
 - process：pro-向前；每天向前走就是做一件事情的*进程/过程*。动词化就是*处理*
 - processor：process-处理，or-名称后缀；处理东西的机器即*处理器*
-- procession：pro-向前，-ion-名词后缀，一群人向前走即*队伍，一列，列队行进*
-- graduate：-u-连词符号，-ate-动名词后缀，走出/离开学校即*毕业*
+- procession：pro-向前，-ion-名词后缀；一群人向前走即*队伍，一列，列队行进*
+- graduate：-u-连词符号，-ate-动名词后缀；走出/离开学校即*毕业*
 
-- preced：pre-在..之前，在之前走代表先于
-- unprecedentedly（un-否定，之前没有人走过代表史无前例的）；
-- recede（re-向后，向后走即后退）；recession（名词的向后走特指经济衰退）；
-- intercede（inter-在..之间，在之间走来走去代表斡旋，调停）；
-- exceed（ex-走出去，即超过）；
-- excess（同exceed）
+- undergraduate：under-达不到/..之下；达不到本科即*本科在读/本科肄业*
+
+- ingredient：in-进入，-ent-名词后缀；造词模仿diet[饮食]，走进食物中的东西即*原料，要素，组成部分*
+
+- aggress：ag- 加强语义；强行走进去即*侵略*
+
+- progress：pro-向前；向前走即*前进*
+
+- proceed：pro-向前；*前进，继续*。proceedings为诉讼
+
+- procedure：-ure-名词后缀；代表想前走的路线即*程序，步骤*
+
+- precede：pre-在..之前；在之前走代表*先于*。
+- precedent：-ent-名词后缀代表*先例，前例*
+- unprecedentedly：un-否定；之前没有人先例代表*史无前例的*
+- access：ac-加强语气；走进去了即*接近，进入，靠近，使用*
+- accessory：ac-去，ory-名词后缀；走进去，加入的东西，跟着走的东西即*附件，配件，从犯*
+- recede：re-向后；向后走即*后退，衰退*
+- recession：名词的向后走特指*经济衰退*
+- intercede：inter-在..之间；在之间走来走去代表*斡旋，调停*
+- exceed：ex-走出去；即*超过*
+- excess（同exceed）。process(名词)，excess(名词），proceed（动词），exceed（动词）。一般cess代表名称，ceed代表动词
+- exceedingly： 形容词，代表*极其,非常*
+- crease：ceas=>cess；XX人走了意思就是生命停止了即*停止，终了*
+- predecessor：pre-前，decess(de-下，cess走，走下来的人即退休)，-or-人；已经退休的人即*前任/前辈*
+- necessary：ne-不(no)，-ary：形容词后缀；走不掉，逃不掉的即*必然的，必要的*
+- necessitate：ite+ate=>itate(复合后缀），-ite-使(动词)，使用..成为必须
+- degrade：向下走即*贬低，使..丢人，使..降级*。degradation：名词*降级，堕落*。反义词：upgrade
+- gradual：一步步的走即*渐进的，逐步的*
+- comgress：走到一起开会即*国会，议会，代表大会*。comgressman：*国会议员*
+- ancestor：anc-老，以前，ces：走，or：人；走在以前的人即*始祖，祖先*。ancestral：*祖先的*。ancestry：*祖先*
+- concede：每人各往回走一步即*让步，退让，勉强*。concession：名词*让步*
+- abscess：abs：离开；走不开的东西即*脓肿，脓疮*
+- accede：ac：去；向..走去，朝着某人的要求走去即*同意，加入*。朝着王位走去即*就任*。
+- antecede：ant-(同anc)以前，走在前即*在..之前，先行，胜过，居前*。antecdenet：*前事，先例*
+- incessant：in-否定，cess-停止(走的引申含义如人走了即生命停止了)；不停止即*不断的，不停的，连续的*
+- intercede：inter-之间，走到人中间去*调停，调节*
+- secede：se-分离，向四周；从其中走出去即*退出，脱离*。secession：名词*分离，脱离*
+- digress：di-分开，走到另外的路上即*岔道，离题*
+- regress：re-向后；往回走即*逆行，倒退*
+- ingress：in-进入；名称及*进入，入口，入境*
+- transgression：trans-穿过，走穿过即*越界，违反*
+
+> progress，process，procedure，proceed这四个次都是向前，但需要结合语境。
+>
+> progress强调事业向前走。process强调向前的过程。procedure强调继续推进不要停。proceed强调一群人列队向前，事件推进
+
+
+
+
 
 
 

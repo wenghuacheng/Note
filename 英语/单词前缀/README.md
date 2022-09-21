@@ -6,6 +6,12 @@
 
 
 
+#### ad-/a-
+
+含义：去，加强，
+
+
+
 #### anti-
 
 含义：反对，相反
@@ -14,11 +20,13 @@
 
 
 
-#### co-/col-/con-/com-
+## co-/col-/con-/com-
 
 > 其实就是co只是一些单词直接co不好发音，所以添加l,n,m
 
 含义：一起
+
+含义：加强语气
 
 示例：cooperation,collaboration,contribute,communicate
 
@@ -34,7 +42,7 @@
 
 
 
-#### de-
+## de-
 
 含义：否定，除去，向下
 
@@ -150,17 +158,38 @@
 
 
 
-#### sub-
+## sub-,sup-,suc-,sus-
 
-含义：下，下级
+**含义：**下，向下
 
-示例：subway，subaverage。subtitle，subbranch
+- subway：下面的通道即*地铁*
+
+**含义：**从下往上
+
+- submit：mit-送；从下往上送即*呈送*
+
+**含义：**亚于，次于
+
+- suburban：urban：城市的；次于城区的即*郊区的*
+
+**含义：**后，后面
+
+- subsequent：sequent：形容词后缀；跟在后面的，*紧跟的*
+
+**示例**
+
+- succeed：suc-下，-ceed-走；一直走下去即*成功*。suc-后;走在后面即*继承，继任*。succeeding；*随后的*
+
+- success：名词*成功*。successor：*继任者，后续事务*。succession：*连续，继位*。successive：*连续不断的*
+
+  
+
 
 
 
 #### trans-
 
-含义：转移(从A到B)
+含义：转移(从A到B)，穿过，传递
 
 示例：transform，transplant，transposition
 
@@ -230,9 +259,11 @@
 
 
 
+## or-/ar/er/ur
 
+含义：人/物
 
-
+含义：...的(形容词后缀)
 
 
 
