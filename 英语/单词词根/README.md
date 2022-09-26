@@ -62,7 +62,70 @@ s,t,d三个字母可以相互转换，所以记忆时ceed和cess一组，gress�
 
 
 
+## vent/ven/van
 
+**含义：**来，走来
+
+- advent：ad-去；向着..走即*来，出现*。the advent of sth 伴随着sth来临出现
+- convene：con-一起；来到一起即*集会*。convention：名词*大会*
+- convenient：走路就能到的即*附近的，方便的*。convenience：名词*方便*。convenience ：名词*便利*
+- convention：走到一起*开会*或定义*习俗*。conventional：形容词*常规的，符合习俗的*。conventionally：副词*照常的*
+- prevent：提前来(演练一遍)即*预防，防止*。preventative：形容词*预防性*
+- intervene：inter-之间；走到..内部即*干涉，妨碍*。intervention 名词*干涉*。intervening 形容词*介于中间的*。interfere 动词*干涉*
+- revenue：re-回，-ue-名词后缀；回来的钱即*收入*(income与其构词相同就是进来的钱即*收入*)
+- event：e-出来；出来的东西即*事件*。eventual 形容词即*最后的，结果的*
+- advance：ad-to；anc-前；一个词包含两个词根向前走来即*前进，提前*。advanced 形容词*高级的*。advancing 形容词不断向前的即*前进的，年长的*
+
+- advantage：ad-去，vant-复合词根(van和anc)；能够一直往前走的即*优势*。take (full) advantage of *(充分)利用*。advantageous：ous-形容词后缀表示大,多；很有好处的即*有利的，有益的*，
+
+> spacious：spac(e)-空间,ous-大,多。空间大而多即*宽敞的*
+
+- invent：in-加强语气；XXX来了，出现了即*发明，创造*。inventive：形容词后缀大，多;有发明能力的即*有发明才能的，别出心裁的*。reinvent：re-又；*重新使用，重复发明*
+
+
+- inventory：ory-名词后缀，方便你找东西即*清单，目录*
+
+- venture：-ure名称后缀，由走险引申为冒险即*风险，冒险*。adventure：一般名词前加ad-，ac-表示动词*冒险*
+- avenue：-ue-名词后缀，一条让人走的东西即*大路，大街，林荫大道*
+
+- invest：in-进入，vest：背心；把自己贴身东西都压进去了即*投资*
+
+- venue：来到一起攻击或集会(14世界构词)即*集合地点，审判地，犯罪地点*
+
+- circumvent：circ-环，um-连接词；绕着环走即*包围，绕行*。circulate：-ate-使；*使传播*。circustance：四周即*环境*
+
+- convent：一堆人为了某个宗教的目的走到一起即（女）修道院
+
+- covenant：co-一起，ant-物。走到一起前一个东西即契约，合同
+- souvenir：sou=>sup从下往上。一个东西让你心里由下往上想起即纪念品，礼物
+- vent：让风出去即*出口，通风口*。ventilation：*通风设备*。ventilate：*使通风*
+- vend：边走边喊即*出售，贩卖*
+- minivan：mini-小，van-货车即*小型货车*
+- caravan：cara-携带；能够带很多东西的即*旅行拖车，房车*
+- avenge：veng-报仇；*替...报仇*。revenge：*复仇*，但是是替自己。vengance：ance-名词后缀，*报仇*。vendatta：*宿仇，深仇*
+
+
+
+## fer
+
+**含义：**-fer=carry=bear。表示1.携带，2.怀孕，3.具有，4.接受(处罚)
+
+- confer：con-加强语气，fer-携带；把XX带给你即*给予，授予*。
+- conference：confer还具备*协商*的含义，所以其名词形式即*会议*
+
+- transfer：trans-转，fer-携带；转给即*转移，转让*。transferable：*可转让的*
+- fertile：fer-：=bear产出的含义，-t-无意义，-ile-形容词后缀表示容易；容易产出的即*多产的，肥沃的*。fertility：-ity-名称后缀即*肥沃*。fertilize：-ize-使；即*使受精，使肥沃*。fertilzation：使动词的名称形式即*受精，施肥*
+- refer：re-返回，fer-带；带着问题回去即*参考，查阅，提及，涉及*、referee：refer-提及，-ee-名词后缀，被XX的人和机构；比赛中被提及的人即*裁判员*
+
+- reference：refer-提及，ence-名词；即*参考，证明书*
+- referendum：refer-参考；有待参考的民意即*公民投票权，全面决议*
+- referent：-ent-名称后缀即*指示物，指示对象*
+- referral：re-返回，fer-携带；把XX带回来(把贪官从国外带回来）即*移交，送交*
+- defer：de-远离，fer-带；带着远离当前即*延期，推迟*。de-下，fer-带；带到某人下面当前即*服从*。deference：*顺从*
+- differential：*有差别的，微分的*。differentiate：-ate：使动词；即*区别，区分*
+- indifferent：in-否定；没有发现别人的不同点即*漠不关心的，无关紧要的*。indifference：ence-名词后缀即漠不关心
+
+- infer：*推断推理*。inference：ence-名词后缀即*推断推理*
 
 
 
