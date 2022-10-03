@@ -48,6 +48,55 @@
 
 
 
+## -ary/-ery/-ory
+
+含义：形容词后缀
+
+含义：地点
+
+含义：人
+
+含义：物
+
+
+
+## -ive
+
+含义：【形容词后缀】大,多
+
+含义：【形容词后缀】有...性质/作用
+
+含义：【名词后缀】人，物
+
+示例：attractive，impressive，creative
+
+
+
+## -ity/lity/ility
+
+含义：【名词后缀】物
+
+
+
+## -ics/-ic
+
+含义：形容词后缀，表示某种学问，学科
+
+- aerobics：aero-air,bi-生活,isc-学科；通过吸氧来生活/活动即*有氧运动*。
+- civics：*公民学，公民*
+- demographic：demo-人民；graph-记录；记录人口的即*人口统计学*
+
+> 其他如dynamics-动力学，economics-经济学，electronics-电子学，ethics-伦理学，genetics-伦理学，linguistics-语言学（lingu=>langu)，logistics-后勤学，mathematics-数学，optics：光学，physics-物理学，poetics-诗歌学，robotics-机器人学
+>
+> semantics-语义学，statistics-统计学
+
+含义：有关
+
+- ceramics：与陶器有关的即*制陶术*
+- metaphysics：meta-高，比物理学更高级的学问即*玄学，形而上学*
+
+> gymnastics-体操(与体育馆相关的)，italics：斜体(由意大利人发明的)，logistics-后勤
+
 
 
 #### -ed
@@ -134,16 +183,6 @@
 
 
 
-## -ive
-
-含义：【形容词后缀】大,多
-
-含义：【形容词后缀】有...性质/作用
-
-含义：【名词后缀】人，物
-
-示例：attractive，impressive，creative
-
 
 
 #### -ize
@@ -207,16 +246,6 @@
 含义：【名词后缀】抽象名称
 
 示例：difficulty，discovery，mastery
-
-
-
-## -ity/lity/ility
-
-含义：【名词后缀】物
-
-
-
-
 
 
 

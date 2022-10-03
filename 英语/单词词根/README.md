@@ -108,7 +108,7 @@ s,t,d三个字母可以相互转换，所以记忆时ceed和cess一组，gress�
 
 ## fer
 
-**含义：**-fer=carry=bear。表示1.携带，2.怀孕，3.具有，4.接受(处罚)
+**含义：**-fer=carry=bear(忍受，怀有)。表示1.携带，2.怀孕，产生，3.具有，4.接受(处罚)
 
 - confer：con-加强语气，fer-携带；把XX带给你即*给予，授予*。
 - conference：confer还具备*协商*的含义，所以其名词形式即*会议*
@@ -126,6 +126,193 @@ s,t,d三个字母可以相互转换，所以记忆时ceed和cess一组，gress�
 - indifferent：in-否定；没有发现别人的不同点即*漠不关心的，无关紧要的*。indifference：ence-名词后缀即漠不关心
 
 - infer：*推断推理*。inference：ence-名词后缀即*推断推理*
+
+- offer：*提供，试图，出价，录取通知*。offering：ing-名称后缀；即*祭品，提供*
+
+- prefer：per-前；带到最前面的即*更喜欢，宁愿(拿出来)*。perferable：*更好的*。perference：*偏爱，倾向*。perferential：*优先的，先取的*
+
+- suffer：suf=>sub-向下,fer-接受承受；即*忍受，遭受，经历*。sufferer：*受害者*。suffering：*受难*
+- burden：burd=>bear，en-表名称；即*负担，责任*。burdensome：some-形容词后缀即*恼人的，繁重的*
+
+> 名称+some为形容词如handsome。
+>
+> 同义词tolerate：*忍受*。tolerance：名词忍受，tolerant：形容词有忍耐力的
+
+- aquifer：aqui-水，fer-携带；携带水的即*蓄水层*。
+- circumference：circ(um)-环，fer-携带；带着绕一圈即*圆周，周长*
+- conifer：coni=>cone 松果，fer-产出；能够产出松果的即*松柏树*
+- euphemism：eu=>well，phem-说，ism-主义；往好的方面去说(好人卡的意思)即*委婉语气*
+- paraphernalia：para-一旁，pher=>fer-携带；一直带在身边的(原指嫁妆一直带在女性身边)即*全套装备*
+- periphery：peri=around-周围，pher=>fer；带着周围绕一周即*圆周，外围，边缘，圆柱体表面*。perianal：peri-周围，anal-肛门即*肛门周边*
+- pestiferous：pest-虫，fer-携带，ous-形容词后缀；携带了害虫身上的即*传播疾病的*
+- phosphorous：phos-光，phor=>fer-产生；能够自身发光的物质即*磷*
+
+> photograph：phos-光，graph-记录工具/写/画；通过光记录的即*照片*
+
+- proffer：pro-向前，向前提供即*提供，提出，提议*
+- proliferate：向前不断生出东西即*增殖，扩散，增生*。
+- metaphor：meta-改变，phor=>fer-具备，具备改变(把A改变为B来说)即*暗喻，隐喻*
+
+
+
+## ver/vers/vert/vol/var
+
+含义：=trun,转，扭
+
+> 此外还有一些变形如wer，wre
+
+- converse：con-加强语气，e-反转；即*相反的，逆向的，交谈(动词)*
+- controversy：contro-相反，y-转向相反面；转向相反面即*争端，争议*
+- divert：dis-不同；转向不同的方向即*转移，转向*。diversion：ion-名词后缀；即*转移，消遣*
+- diverse：可以转向不同领域的即*不同的，变化多端的*。diversify：ify-使...；即*使多样化*。diversified(y改成ied)：ied-的；即*多样化的*。diversification：cation-名称；即*变化*。diversity：ity-名称后缀。即*多样性*
+- diverge：di=>dis-分开；分开转向另外方向即*分歧，分叉*。divergence：ence-名称后缀即*分歧，分叉*。divergent：ent-形容词后缀即*分歧的，散开的*
+- version：由一种语言转到另外一种语言即*译本，版本*
+- translate：转成另外一种语言即*翻译，转变*
+- universe：uni-一；一个不停转的东西即*宇宙，世界*。universal：al-形容词后缀即*通用的*。universality：ity-名称后缀即*普遍性，通用性*。university：能够学习到宇宙世界的地方即*大学*
+
+- vary：*转变，变换，变化，违反*。varying：ing-形容词后缀；变换的。invariable：*不变的*。variation：ion-名称后缀即*变异*。various：ous-形容词后缀表示大和多；能改变的很多即*各种各样的*。variability：ability-能力；即*可变性，变化性*。variance：ance-名称后缀即*变异，变化*。variant：ant-形容词后缀即不同的。varied：ed-形容词后缀即*多变的，各种各样的*。variety：*种类*。variegated：vari-改变，eg-做，ated-形容词后缀即*斑驳的，杂色的，富于变化的*
+- convert：con-加强语气。把A转成B和translate一样即*转变，转换*。conversion：ion-名词后缀；*转换*。convertible：ible-可转换的。即*可交换的，同意义的，敞篷车*
+
+- converge：con-一起，(河流)转到一起即*聚合，汇聚到一点*。convergence：ence-名称后缀即*聚合*
+- divorce：di-两个；转向两个方向即*使..离婚，与..离婚*。divorced：ed-形容词后缀即*离婚的*
+- reverse：re-反；转到相反即*背面，相反，倒退，失败，颠倒(动词)*。reversal：al-名词后缀即*反转，逆转*。
+- revert：re-返回；转回到原来状态即*恢复，重提，归返*
+- adverse：ad-去；立场向不好的方向转即*相反的，不利的，敌对的*。adversely：ly-副词后缀即*反对地，不利地*。adversarial：arial-复合形容词后缀*对立的*。adversary：ary-人；即*敌手，对手*。adversity：ity-名词后缀；即*逆境，不幸*
+
+- versus：us-名称后缀；和我们反转立场即对抗(vs的简称)。
+- verse：从一行转到另外一行即*诗篇*
+- prose：一直写直到一行写不下就转即*散文*
+- versatile：atile-复合形容词后缀；可以转向很多领域即*多才多艺的，通用的*。versatility：ity-名称后缀即*多才多艺*
+
+- involve：向里转即*卷入，牵连，包含*。involved：ed-形容词后缀；即卷入的，有关的。involvement：ment-名称后缀即牵连，混乱。
+- revolve：re-反复；反复转即*旋转，循环出现*。revolution：tion-名称后缀；即*运行，循环，旋转，革命*。revolutionary：ary-形容词后缀；即*革命的，旋转的*。revolutionize：ize-使，即*彻底革命*。revolver：*旋转器，左轮手枪*。revolving：ing-形容词后缀即*旋转的*。revolt：re-相反；转的和原来的阵营相反即*反叛*。
+- evolve：e(x)-向外；新物种转出来即*发展，进化*。evolution：ion-名称后缀；即*进展，演变*。evolutionary：ary-形容词后缀；即进化的。evolved：*进化了的*。evolving：-ing形容词后缀；即*进化的，展开的*。
+
+- shift：也是转的意思即*转移，转向*。shifter：*移动装置，搬运者*。shifting：*不断移动的*。
+- switch：wit=>ver；即*转换，开关*
+- distort：dis-加强语气(彻底)，tort=>twist-弯曲；彻底的弯曲了即*扭曲，曲解*。distortion：tion-名称后缀；即*变形，歪曲*。
+- twist：twi=>two(两个)，wist=>vert；即*拧，扭曲，转折，拐点*。twisted。ed-形容词后缀即*扭曲的*
+- tumble：tum=>turn，ble-动词后缀即*摔倒，打滚，趔趄*。tumbler：翻跟斗的人即*杂技演员，不倒翁*。tumbling：ing-名词后缀即*摔跤*
+- anniversary：anni-年，ary-名词后缀；每年转到的那一天即*周年纪念日*。
+- weird：词源中该词与命运三女神相关，她们长相怪异即*怪异的，不可思议的，超自然的*。
+
+> 同义词：odd
+
+- worm：词源中来源于wer即turn；弯弯曲曲的生物即*虫*。
+- wrap： 原为wer=>ver；用绳子把东西一下下卷起来即*打包，缠绕*。wapper：*包装材料*。wrapping：*包装材料*，*包装纸*
+- wreath：wrea=>wer=>ver;一圈圈编制即*花冠，圈状物*。
+
+- volume：vol=roll；一卷书即*卷，册，体积，音量*。voluminous：ous-形容词后缀(大/多);即*多卷的，长篇的，大量的*。
+
+- invert：in=>en-使动词；即*使反转，使颠倒*。inverted：ed-形容词后缀；即*倒转的，反向的*。inverse：*相反的(形)，相反的东西(名)*。inversion：ion-名称后缀；*倒转，反向*。
+- avert：a-away(远离）；转了远离即*避免，防止，转移*。aversion：ion-名称后缀；*讨厌的人*
+- wry：wry=wer=>ver；即*扭曲的，歪曲的*。
+- evert：e=ex-外；向外翻即*外翻(眼皮，肠子等部位)*
+- extrovert：extro-外；向外翻(性格)即*外向的，活泼的*。introvert：*性格内向的*。
+- pervert：per-彻底，彻底反转即*颠覆，破坏，误导*。
+- reverberate:：re-返回，erate-复合使动词后缀；声音被转回来即*使回想，使弹回*
+- subvert：sub-向下；事情向下转即*推翻，颠覆*(比pervert程度低，这个指彻底颠覆)。subversion：ion-名称后缀；即*破坏*。subversive：*颠覆的*
+- transverse：trans-穿；横着穿过去即*横的，横穿*。
+- verge：*濒临，接近，处于边缘*。on the verge of sth：*接近于，濒临*。
+- vertex：ex-名称后缀；由转折点引申即*最高点，顶点*。vortex：vort=>vert，ex-名称后缀；水旋转即*涡流，旋涡，旋风*。
+- vertigo：转着走即*晕头转向*
+- warp：war=>wer=>ver,p-变弯;*扭曲，变形，摧毁*。wrath：wra=>ver;被人扭了即*愤怒，激怒*。wrench：wer=>ver；扭/拧东西即*扳手，管钳，扭伤，痛苦*
+- wrest：wre=>ver；即*用力拧*。wrestle：*摔跤*。wrestler：*摔跤手*
+- wriggle：wrig=>vert；即*蠕动，蜿蜒而行*。
+- wring：*绞，拧*
+- wrinkle：wrink=wind=trun；脸上出现弯曲即*皱纹*。wrinkled：*有皱纹的*。
+- wrist：wris=trun；即*腕关节*。wristwatch：*手表*。
+- writhe：wrih=>turn；因身体的疼痛而打滚即*扭动，翻滚*。
+- circumvolve：绕着圆圈转即*旋转*。convoluted：con-一起，vol-卷；东西绕道一起即*复杂的，旋转的*。
+- devolve：de-向下；权利向下转即*(权利)下放，移交，衰弱*。
+- valve：转动来控制液体流动的东西即*阀门*
+- vault：vaul=>turn；一个翻转过去的弧线即*撑杆跳，拱顶，地下室(翻转的那个弧线)*。
+- wallow：wal=>val=>turn；动物在泥巴里转即*打滚，翻转*。willow：will=>wer，ow-名称后缀；枝叶是弯曲的即*柳树*
+
+
+
+## cern/crim/cert/cris/crit/cree/cret
+
+含义：separate=distinguish，区别/区分
+
+- concern：con-加强语气；要分开了/要被区别对待了即*使..担心，关心，涉及*。concerned：ed-形容词后缀；*关心的，有关的*。concerning：介词；*关于，就..而言*
+- discern：dis-不同；能区别不同即*分辨，领悟，察觉*。discernible：ible-形容词后缀(可以..的)；可辨别的，可识别的。discerning：*有辨别能力的*。
+- discriminate：discrim=discern-辨别，inate-复合后缀；即*区别，辨别，歧视*。discrimination：-tion：名词后缀；歧视，辨别。discriminant：ant-物；能够识别的东西即*判别式，可辨别因素*。dicriminating：*有识别能力的*。discriminatory：ory-形容词后缀；*不公平的，歧视的*
+- concert：把分开的曲子放在一起演奏即*音乐会，和谐，一致*。concerted：*和谐的，联合的，尽力的*。concerto：*协奏曲*。disconcert：dis-否定；不和谐的即*不和谐，不一致*。disconcerting：ing-形容词后缀；*令人不安的，令人尴尬的*。
+- crisis：is-名词后缀；到了要分裂的时刻即*危机，决定性时刻，危险期*。
+- critic：ic-名词后缀(人)；能够作出判断(区分)的人即*评论家，爱挑剔的*。critical：ical-形容词后缀；*批评的*。criticize：ize-使动词；*批评，评论*。criticism：ism-名词后缀；*批评，评论*。critique：que-技艺；批评技艺即*评论文章*
+- criteria：eria-复合名词后缀；用来区别的标尺即*标准，条件*。
+- prejudice：pre-提前，jud-判断；在没有知道真相时提前作出判断即*偏见*
+- decree：de-下，cree=>decide-决定；把东西定下来并发布即法令，政令。
+- hypocrisy：hypo=>under-达不到；没有作出真正的区别，只是模仿即*虚假，虚伪*。hypocrite：*伪君子*。hypocritical：*伪善的*
+- secret：se=>self;自己与别区别开，独有的东西即*秘密*。secretive：ive-形容词后缀(多，大)；秘密很多的即*深藏不露的*。secrecy：保密，秘密。secretary：ary-人；帮忙处理秘密的人即*秘书，书记*
+- discreet：dis-不同；区别不同点时即*小心的，谨慎的*。
+- secrete：se=>self开；把钱分了自己即*藏匿，私下侵吞*
+
+
+
+## fin/bin/bund
+
+含义：bind，约束，限制，范围，结束，钱。因为想要结束所以会限制
+
+- define：de-向下；给..限制，范围及*定义，规定，使明确*。defined：有定义及*清晰的，轮廓分明*。defining：*最典型的，起决定性作用的*。definition：ition-名词后缀；*定义，清楚*，清晰度。redefine：re-又；即*重新定义*。definite：de-加强语气，ite-形容词后缀；即*限定的，明确的，肯定的*。indefinite：in-否定；即*不确定的，模糊的*。definitive：即*明确的，最终的，不可改变的*
+
+- binder：把东西帮到一起的人即*装订工，粘合剂*。binding：*有约束力的*。
+
+- band：被绑在一起的几个人即*乐队，频段，波段*。bandage：绑伤口即*绑带*。Band-aic：邦迪创可贴即*创可贴，权宜之计*。bandwagon：wagon-四轮马车；能够吸引人来参加的即*乐队花车，流行，时尚*。bandwidth：*带宽*。boradband：*宽频*。
+
+  disband：dis-否定；乐队不要了即*解散*。headband：绑头上的即*头巾*。waistband：waist-腰；绑腰上的即*腰带*。
+
+- ribbon：bon=>band：即*缎带，带状物*。
+
+- finite：ite-形容词后缀；*有限的*。infinite：in-否定；*无限的*。infinity：ity-名称后缀；*无限，无穷*。
+
+- confine：con-加强语气；完全被限制即*限制，界限，边界*。comfinement：ment-名称后缀；*限制，监禁*。
+
+- bound：*界限，受约束的*。boundless：*无限的*。rebound：*回弹，篮板球*。boundary：*边界线，边界*。frontier：front-前面；国家的前沿即*边界，国界，前沿*。
+
+- bond：*纽带，结合，粘合剂*。bondage：被绑住的状态即*奴役身份，束缚*。bonding：*人与人之间的关系*。
+
+- bunch：绑在一起即*串，群，束，伙*。bundle：*捆，束*。
+
+- refine：re-再；反复改进即*提存，精炼*。refinement：*精炼，有教养的，文雅的*。refinery：*精炼厂*
+- finallist：lis-人；*参加决赛选手*。finality：*定局，定性，不可改变*。finalize：ize-使；*最后确定*
+- finance：fin-钱；*财政*。financing：*融资*。refinance：*再次提供资金*
+
+
+
+## pos/pon/pound
+
+含义：put，place。放置。单词post与岗位，邮政，岗位有关
+
+- compose：com-一起；把文字放到一起即*写作，构成*。composer：*作曲家，作家，设计者*。composition：ion-名称后缀；*作文，作曲，合成物*。compositional：al-形容词后缀；*组成的，作曲的*。component：ent-形容词后缀；*组成的，构成的*。decompose：de-否定；不组成即*分解，腐烂*。
+
+> 同义词：element：*元素，要素*。elementary：ary-形容词后缀；(构成)最小单元即*元素的，初级的，基本的*。
+
+- compound：放到一起即*合成，混合*。
+- composite：ite-名词后缀；*合成物，复合材料*，拼接的。compost：把腐烂的东西混合即*堆肥，混合肥料*。composure：ure-名词后缀；能够控制住自己的外表即*沉着，镇静*。
+- posepone：post-后；往后放即*使..延期*。
+- deposit：de-away(离开)；固定短语lay away表示*存款，保证金*或*放下，存放*。depose：向下放即*革职，罢黜*。deposition：deposit和depose的名词形式即*沉淀物，革职*。depositor：*存款人*
+
+> 反义词：withdraw:*撤销，收回，撤退，退出，取钱*。withdrawal：al-名词后缀；*撤退，回收*。
+
+- posture：ure-名词后缀；*姿势，形式，态度*。dispose：dis-分开；把东西分开放即*处理，放置，安排*。disposeal：al-名词后缀；*处理，清理*。disposition：dispose-使用短语含义倾向，ition-复合名词后缀；*性情，倾向，处置*。disposeable：*可任意处理的，一次性的*。
+- expose：ex-向外；把东西放在大众之下即*使暴露，揭露*。exposition：把东西放出去给人看即*展览会，博览会*。
+- impose：in-加强语气；强行放置即*强加，施加*。imposing：*壮观的，给人印象深刻的*。superimpose：super-上面；把东西叠加在另一个上面即*添加，叠加，附加，安装*。
+- oppose：op-相反；摆出相反姿势即*反对，对抗，抗争*。be opposed to-反对。opposed：*反对的*。opposite：*对面的，另一边的*。opposition：*反对，敌对，反对派*。opponent：ent-人；*对手，敌手，反对者*。
+- propose：pro-向前；向前提出即*求婚，打算，计划*。proposed：*被提议的*。proposal：*提议，建议*。proposition：*提议，建议，待处理，见解，主张*。proponent：ent-人；*支持者，建议者*。
+- symposium：sym-一起，ium-名词后缀；把专家放到一起即*讨论会，座谈会*。
+- positive：*确定的，肯定的，积极的，真实的*。
+- posit：*假定，假设*。
+- supported：*假定，应当*。be supported to：本应该...。presuppose：*预先假定*。purpose：*目的，用途，意志*。all-purpose：*多功能的*。
+- postage：这里post不是词根即*邮资，邮费*。postcard：*明信片*。*poster*：海报。posterior：erior-复合形容词后缀即*背部的，后面的*(其他如interior，exterior)。posterity：ity-名词后缀；后面出现的人即*子孙，后代*。posthumous：post-后，hum-土地，ous-形容词后缀；入土的即*死后的，遗腹的*。posting：*派往，派驻*。
+- postoperative：*手术后的*。postpartum：par-生，生产之后即*产后的*。postseason：季后赛。
+- repose：re-反复；返回停下来即*休息，睡眠*。
+- repository：可以反复放东西的地方即*储藏室，知识库*。
+- juxtapose：juxt=>joint;加入放置即*并列，并置*。
+- expound：ex-向外；把观点放出来即*解释，说明*。exponent：ent-人；*阐述者，拥护者，大师*。
+- 
+- 
 
 
 
@@ -158,14 +345,6 @@ s,t,d三个字母可以相互转换，所以记忆时ceed和cess一组，gress�
 含义：lead引导
 
 示例：introduce（intro-向里，向里面引导即引入，介绍），conduct（con-一起，引导所有的东西即指挥），seduce（se-away分开，往不好的路进行引导即勾引，引诱），reduce（re-向回，向回引导即减少），product（pro-向前，向前引导即生产）
-
-
-
-#### fer
-
-含义：bring，carry 带，拿
-
-示例：offer（of-双写f强调，代表都给即提供），prefer（per-提前，提前拿走即更喜欢），differ（di-向四周，各种选择即不同），transfer（trans-把A带到B即转移）
 
 
 
@@ -229,14 +408,6 @@ s,t,d三个字母可以相互转换，所以记忆时ceed和cess一组，gress�
 
 
 
-#### vert/vers
-
-含义：trun 转
-
-示例：reverse（re-向后，向后转即反转），convert（con-一起，一起转即转变），diverse（di-四周，向四周转即多种多样），introvert（东西全往心里去即内向人），extrovert（东西全往外去即外向人）
-
-
-
 #### vis/vid
 
 含义：see 看
@@ -267,7 +438,7 @@ s,t,d三个字母可以相互转换，所以记忆时ceed和cess一组，gress�
 
 
 
-
+7
 
 
 
