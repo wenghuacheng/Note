@@ -311,8 +311,27 @@ s,t,d三个字母可以相互转换，所以记忆时ceed和cess一组，gress�
 - repository：可以反复放东西的地方即*储藏室，知识库*。
 - juxtapose：juxt=>joint;加入放置即*并列，并置*。
 - expound：ex-向外；把观点放出来即*解释，说明*。exponent：ent-人；*阐述者，拥护者，大师*。
-- 
-- 
+
+
+
+## val/vail
+
+含义：价值，强有力的，强大的
+
+- avail：a-强调；有价值的即*有用，有益*。
+- noteworthy：note-注意；值得注意的即*显著的，值得注意的*。self-worthy：*自我价值感*。trustworthy：*可信赖的，可靠的*
+- prevail：pre-以前；之前就很强大的即*盛行，流行，占上风，获胜*。prevailing：*盛行的，普通的*。prevalent：ent-形容词后缀;*流行的，盛行的*。prevalence：ence-名词后缀；*流行，普遍*
+- undervalue：把别人的价值看低了即*看轻*。devalue：把价值降下来即*贬值*。
+- evaluate：e(x)-出来；把价值弄出来即*评价，估价*。
+- equivalent：equi-相同；相同价值即*等价的，相等的*。
+- valid：目前还是有效力的即*有效的，正当的*。validate：ate-使动词；*使生效，证实，确认*。validity：ity-名词后缀；*有效性*。vaildation：tion-名词后缀；*证实*。invaluable：in-加强语气；非常有价值的即*无价的*。
+- valor：or-名词后缀；非常强大即*英勇，勇猛*。valiant：ant-形容词后缀；*英勇的*。
+- wield：wiel=>val;有力量使用武器即*挥舞，使用*。unwieldy：y-形容词后缀；挥舞不动的即*笨重的，不灵活的*。
+- ambivalent：ambi-两个，ent-形容词后缀；两种情绪/力量在博弈即*矛盾情绪的，喜忧参半的*
+- convalesce：con-加强语气；逐渐变的更健康即*恢复，康复*。
+- polyvalent：poly-多，ent-形容词后缀；多价值的即*多功能的*。
+
+
 
 
 
