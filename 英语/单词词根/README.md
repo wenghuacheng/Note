@@ -333,6 +333,80 @@ s,t,d三个字母可以相互转换，所以记忆时ceed和cess一组，gress�
 
 
 
+## forc/fort
+
+含义：force：力量，实力，强有力。
+
+- forced：ed-形容词后缀；*强迫的*。forceful：ful-形容词后缀；满满的充满力量的即*有说服力的*。forcibly：ib-可以；可以使用武力即*强制的，暴力的*。
+- workforce：用于劳动的力量即*劳动力，员工总数*。
+- reinforce：re-又一次，in-加入；又注入力量即*加强，加固，补充*。
+- enforce：en-使动词；使某人效力/力量即*强迫，强制，执行，实施*。
+- fort：强有力坚不可摧的即*堡垒，要塞*。fortify：ify-使动词；使变的像堡垒一样即*加强，加固*。fortified：*加强的*。fortification：ication-复合名词后缀；*加强，设防*。fortess：ess-名词后缀；*要塞，堡垒*。fortitude：itude-名词后缀表状态；很有力量的状态即*刚毅，坚毅，不屈不挠*。
+- comfort：com-加强语气；给你增加力量即*安慰，舒适*。comforter：*安慰者，羽绒被*。
+- effort：ex-出去；花出去的力量即*努力，成就*。effortless：*毫不费力的*
+
+
+
+## trib
+
+含义：grant 批准，授权，给
+
+- tribe：(非词根)tri-三个；*部落，宗族，一伙*。tribal：al-形容词后缀；*部落的，种族的*。tribesman：*部落成员*。
+- tribute：ute-名词后缀；给其他人的贡品即*贡品，颂词，礼物*。tributary：ary-形容词后缀：*纳贡的，附属的，辅助的*。
+- retribution：re-回；给回来的东西即*报应，惩罚，报答，报酬*。
+- contribute：con-一起，ute=>ate；一起给即*贡献，捐献*。contributing ：*起作用的*。
+- attribute：at-加强语气，ute=>ate；把功劳给你即*把..归因于，特性*
+- distribute：dis-分开；分开给即*分发，分配，散播*。
+
+
+
+## ply/ploy/ploit/plic/plex/play
+
+含义：折叠，重合，倍数关系(折叠后厚度是两倍)
+
+- apply：ap-去；去和别人的要求重合即*应用，申请(工作)*。applicant：ant-人；*申请人*。applied：*应用的，实用的*。appliance：ance-名词后缀；拿来用的东西即*器具，器械*。
+
+- employ：em-进来，ploy-使用(额外的词根含义)；即*使用，采用*。employee：ee-人(一般代表被...的人)；即被雇佣的人。employer：*老板*。
+- exploit：ex-外；用出来即*剥削，利用，开发*。exploited：`被剥削的`。
+- explore：*探测，探讨*。exploratory：ory-形容词后缀；*探究的*
+- deploy：de-分开；把重合的(军队)分开即*部署，调度*。
+- complicate：com-一起；把东西都叠到一起了即*使复杂化*。complex：*复杂*
+- perplex：per-彻底，贯彻；全部折叠到一起即*使困惑，使为难*。
+- duplex：du-两个；*双倍的*。duplicate：使变成两倍即*复制，加倍*。duplication：*副本*。
+- multiply：multi-多；多倍即*乘*。multiplication：ation-名词后缀；*乘法*。multiple：*多样的，许多的*。multiplicity：ity-名词后缀；*多样性，多重性*。multitude：itude-程度；多到一定程度即*多数，群众*。
+- flexible：flex-折叠，弯曲；容易弯曲的即*灵活的，柔韧的*。inflexible：in-否定；不可弯曲的即*顽固的*。
+- reflect：re-回；光折回来即*反射，反省*。reflection：ion-名词后缀；*反射，反省*。reflex：*反射，反应*。deflect：de-远离；弯的远离即*使偏斜，使转向，使弯曲*。
+- comply：com-加强语气；与其他人的做法重合即*答应，遵守*。compliance：ance-名词后缀；*顺从，服从*
+- unfold：flod-重合；*打开，呈现*
+- imply：in-内部；折叠在内部不露在外面即*暗示，意味*。implicit：it-形容词后缀；*暗示的，含蓄的*。explicit：ex-外部；*清晰的，明确的*
+- replicate：re-又；重复的在做一遍即*复制，重做*。relica：*复制品*。
+- ply：*不断供给，弯，折*。plywood：*夹板*
+- ploy：*策略，活动，工作*
+- splay：*展开*
+
+
+
+## mot/mob/mut/mig
+
+含义：move，移动
+
+- promote：pro-向前；事情向前动即*促进*，职位向前动即*提升*。promoter：*发起人，促进者*。
+- emotion：e-向外；内心被感动(动情)即*情感，情绪*。emotional：al-形容词后缀；*情绪的，激动的*。motion：*运动，移动*。motivate：ivate-复合动词后缀；使某人动起来即*刺激，激发..积极性*。motive：ive-名词后缀；让其动起来的原因即*动机，目的*。
+- remove：re-再一次；再移动即*移动，迁移，开除*。removal：al-名词后缀；*移动，免职*。mobile：ile->ible-可以；*可移动的*。mobilize：ilize-ile+ize复合动词后缀；使动起来即*动员，组织*。immobile：im-否定；不能动即*固定的，不变的，稳定的*。automobile：*汽车*。snowmobile：雪地汽车。
+- motor：or-物；能让东西动起来即*发动机，马达，汽车*。motel：motor+hotel即*汽车旅馆*。motorcycle：*摩托车*。motorist：ist-人即*驾车旅行的人*。motorized：ize-使,ed-形容词后缀;即*摩托化的*。
+- momentum：entum-ent+um复合名词后缀/moment(一瞬间的动力)；势头，动量，动力。
+- remote：re-再一次；一次次移动(远离原本地方)即*遥远的，偏远的*。
+- mutual：u-连接词，al-形容词后缀；相互变换位置(换位思考)即*相互的，彼此的，共同的*。commute：com-加强语气；两个点交换位置即*交换，减刑，用..交换*。
+- migrate：ate-使动词；*移动，移往*。migrant：ant-人；*移居者*。migratory：ory-形容词后缀；*迁移的，流浪的*。immigrate：im-进入；*移入*。emigrate：e-向外；*移居国外*。
+- automatic：auto-自己，mat-动，ic-形容词后缀；*自动的，无意识的*。automate：ate-使动词；*使自动化*。automotive：ive-形容词后缀；*汽车的，自动的*。autopilot：*自动驾驶仪*
+- autonomous：auto-自己，nom-法律，ous-形容词后缀；自己有自己的法律即*自治的，自主的*。autonomy：*自治*。
+- autobiography：auto-自己，bio-生命，graph-写；写自己的人生即*自传*。autograph：*亲笔签名*。
+- autocratic：auto-自己，crat-统治，ic-形容词后缀；自己一个人管的即*专制的，独裁的*。
+- autoimmune：immune-有免疫能力的；*自身免疫的*。
+- commotion：com-加强语气；动的特别厉害即*暴乱，骚动*。
+- demote：de-向下；*降职，降级*。
+- locomotive：loc-地方；从一个地方动过来即*机车，火车头*。
+
 
 
 #### cid/cis
